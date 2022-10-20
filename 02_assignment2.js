@@ -11,3 +11,16 @@ var Null="It Is the intentional absence of the values. It is one of the primitiv
 var Undefined="It means the value does not exist in the complier.";
 console.log("Null:",Null);
 console.log("Undefined",Undefined);
+
+
+
+
+
+
+
+
+
+
+
+
+
